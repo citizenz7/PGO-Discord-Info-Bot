@@ -1,0 +1,17 @@
+{
+  "name": "pgo_market",
+  "version": "1.0.0",
+  "description": "PengolinCoin (PGO) Discord market bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "citizenz7",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.6"
+  }
+}
