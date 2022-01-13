@@ -2,7 +2,10 @@
 
 ### Requirements
 * nodejs 16+
-* npm install
+* Yarn (Npm)
 
-### Run the bot
+### 1/ Install ###
+`yarn install`
+
+### 2/ Run the bot
 `node index.js`
